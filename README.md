@@ -27,7 +27,7 @@ types: { ...config.CUSTOM_TYPES, Opinion: { name: 'Vec<u8>', email: 'Vec<u8>', c
 
 <img src="https://github.com/encoderafat/framedev/blob/main/img/enteropinion.jpg" />
 
-name, email and comment map to name, email and comment keys of the struct Referendum.
+name, email and comment map to name, email and comment keys of the struct Opinion.
 
 <img src="https://github.com/encoderafat/framedev/blob/main/img/opinionstatus.jpg" />
 
